@@ -14,3 +14,19 @@
     color: #18bc9c;
     background: #000;
 }
+.rot360 {
+-webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+
+		/* Firefox */
+	-moz-transition: all 6s ease;
+	/* WebKit */
+	-webkit-transition: all s ease;
+	/* Opera */
+	-o-transition: all 6s ease;
+	/* Standard */
+	transition: all 6s ease;
+}

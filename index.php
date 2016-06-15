@@ -75,7 +75,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img id="mainPic" class="img-responsive img-circle" src="img/surf2.png" alt="">
+                    <img id="mainPic" class="img-responsive img-circle" src="img/surf2.png" alt="" width="200px">
                     <div class="intro-text">
                         <span class="name">Surf Thomas</span>
                         <hr class="star-light">
@@ -171,6 +171,7 @@
                 </div>
                 <div class="col-sm-4">
                     <h3>Education</h3>
+                    <p>New Jersey Institute of Technology <br /> M.S. Web & Information Systems - 2018</p>
                     <p>New Jersey Institute of Technology <br /> B.S. Web & Information Systems - 2017</p>
                     <p>General Assembly <br /> Data Science - 2014</p>
                     <p>Rartin Valley Community College <br /> Cumm Laude - PHI THETA KAPPA Honor Society <br /> A.S. Web Development - 2011</p>
@@ -255,8 +256,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <h3>About Surfield Thomas</h3>
+                        <p>Surfield is a Full-Stack Developer, specializing in mobile and web application development and integration.</p>
                     </div>
                 </div>
             </div>
@@ -387,7 +388,14 @@
                             </li>
                             </ul>
                             <img src="img/portfolio/voiced.png" class="img-responsive img-centered" alt="">
-                            <p>Built the entire Android application in one month using Java, Android SDK, and Facebook SDK. Back-end was developed in PHP & MySQL.</p>
+                            <p>Coded the entire Android application in one month using Java, Android SDK, and Facebook SDK and Google APIs. Back-end was developed in PHP & MySQL.</p>
+                            <p>Created the user interface for version 2 of the application using SketchApp</p>
+                            <div class="row">
+                                <div class="col-sm-3"><img src="img/portfolio/discover.png" class="img-responsive img-centered" alt=""></div>
+                                <div class="col-sm-3"><img src="img/portfolio/Homescreen.png" class="img-responsive img-centered" alt=""></div>
+                                <div class="col-sm-3"><img src="img/portfolio/Review.png" class="img-responsive img-centered" alt=""></div>
+                                <div class="col-sm-3"><img src="img/portfolio/Homescreen.png" class="img-responsive img-centered" alt=""></div>
+                            </div>
                             <ul class="list-inline item-details">
                                 <li>Client:
                                     <strong><a  target="_blank" href="https://voiced.reviews">Loyal 9 Marketing LLC / Voiced LLC</a>

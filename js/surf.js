@@ -6,13 +6,7 @@
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 var main = function() {
-    $("#mainPic").width(0);
-    $("#mainPic").css({ opacity: 0.1 });
-
-    $("#mainPic").animate({
-    width: 200,
-    opacity:1.0
-  }, 5000);
+    $("#mainPic").addClass('rot360');
 }
 
 $(document).ready(main);
